@@ -1,4 +1,4 @@
-### application.bat - 201x - Nicolas ###
+### application.bat - 2015 - Nicolas ROUDOT/Patrice LE COQ ###
 version = "2"
 build_hour = "11H00"
 
